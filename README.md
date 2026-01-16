@@ -167,4 +167,4 @@ AI_Game_Hub/
 
 ## 📄 License
 
-This project was developed as part of the CSC 361 - Artificial Intelligence course in King Saud University.
+This project was developed as part of the Artificial Intelligence course.
