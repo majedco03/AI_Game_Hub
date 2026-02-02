@@ -160,7 +160,7 @@ AI_Game_Hub/
 | Name | Contribution |
 |------|-------------|
 | **Mohammed Alwanis** | Sudoku Solver |
-| **Majed** | Connect 4 Game & AI Agents |
+| **Majed** | Connect 4 Game |
 | **Alwaleed AlMutairi** | 8-Puzzle Solver |
 
 ---
